@@ -4,8 +4,7 @@ I'm a passionate **WordPress Developer** from Klaten, Jawa Tengah, Indonesia. Cu
 
 ## 🔧 What I Do:
 
-**💻 Full-time WordPress Developer**
-
+- **💻 Full-time WordPress Developer**
 - ⚙ Building custom websites and applications
 - 🖌 Developing plugins and themes for WordPress
 - 💬 Ask me about anything [here](https://github.com/aadiityaak/aadiityaak/issues)
