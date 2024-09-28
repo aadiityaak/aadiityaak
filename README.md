@@ -20,5 +20,3 @@ I'm a passionate **WordPress Developer** from Klaten, Jawa Tengah, Indonesia. Cu
 <a href="https://github.com/aadiityaak/">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadiityaak&layout=donut&theme=buefy&hide_border=true" />
 </a>
-
-Feel free to reach out to me if you'd like to collaborate on projects or just chat about web development! 😄
